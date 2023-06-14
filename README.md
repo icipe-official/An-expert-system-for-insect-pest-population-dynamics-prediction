@@ -1,0 +1,1 @@
+This project aimed to develop an expert system using a Fuzzy Neural Network (FNN) to accurately predict insect pest population dynamics in a large avocado farm , providing valuable insights for decision-making and timely interventions in integrated pest management (IPM) practices.
